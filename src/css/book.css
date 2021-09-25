@@ -1,0 +1,9 @@
+.book-wrapper {
+  border: 1px solid blue;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background-color: white;
+  border-radius: 20px;
+  padding: 1rem;
+}
+/*# sourceMappingURL=book.css.map */
